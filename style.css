@@ -44,8 +44,9 @@ button{
 
 #site-search{
     display: block;
-    width: 70%;
-    margin-left: 9em;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 @media screen and (min-width: 750px) {
