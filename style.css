@@ -61,7 +61,7 @@ button{
 }
 
 @media screen and (max-width: 750px) {
-    .header{
+    .headerEP{
         display: flex;
     }
     #menu{
