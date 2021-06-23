@@ -60,6 +60,30 @@ button{
     }
 }
 
+#SoupeGaspachoCourgettes{
+    display:flex;
+    justify-content:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+#GaspachoMelonJambon{
+    display:flex;
+    justify-content:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+#GaspachoPoivrons{
+    display:flex;
+    justify-content:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
 @media screen and (max-width: 750px) {
     .headerEP{
         display: flex;
