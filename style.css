@@ -18,7 +18,7 @@ input{
     height: 100px;
 }
 
-h2{
+.h2EP{
     text-align: left;
 }
 
@@ -27,7 +27,7 @@ h2{
     max-width: 50%;
 }
 
-p{
+.pEP{
     border: 1px solid rgb(46, 45, 45);
 }
 
