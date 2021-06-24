@@ -6,6 +6,9 @@ font-family: 'Montez', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Vast Shadow', cursive;
 */
+body{
+    font-family: 'Roboto', sans-serif;
+}
 
 .containerEP{
     display: flex;
@@ -110,3 +113,9 @@ button{
         width: 100%;
     }
 }
+
+/*css recette salade de carottes*/
+.bandeau{
+    background-color:orange
+}
+
