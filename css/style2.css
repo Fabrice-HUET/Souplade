@@ -42,6 +42,7 @@ button{
     padding-left: 3.5em;
     padding-right: 3.5em;
     border-radius: 0;
+    cursor: pointer;
 }
 
 #site-search{
