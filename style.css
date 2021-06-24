@@ -18,7 +18,7 @@ input{
     height: 100px;
 }
 
-h2{
+.h2EP{
     text-align: left;
 }
 
@@ -27,7 +27,7 @@ h2{
     max-width: 50%;
 }
 
-p{
+.pEP{
     border: 1px solid rgb(46, 45, 45);
 }
 
@@ -44,8 +44,9 @@ button{
 
 #site-search{
     display: block;
-    width: 70%;
-    margin-left: 9em;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 @media screen and (min-width: 750px) {
@@ -60,8 +61,32 @@ button{
     }
 }
 
+#SoupeGaspachoCourgettes{
+    display:flex;
+    justify-content:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+#GaspachoMelonJambon{
+    display:flex;
+    justify-content:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+#GaspachoPoivrons{
+    display:flex;
+    justify-content:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
 @media screen and (max-width: 750px) {
-    .header{
+    .headerEP{
         display: flex;
     }
     #menu{
