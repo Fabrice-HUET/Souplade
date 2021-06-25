@@ -291,7 +291,7 @@ button{
   position: absolute;
   width: 1200px;
   height: 900px;
-  margin: 0;
+  margin: auto;
   padding: 50px;
   
   background: #ededed;
