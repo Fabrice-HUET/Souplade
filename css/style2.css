@@ -293,6 +293,7 @@ button{
   height: 900px;
   margin: auto;
   padding-top: 50px;
+  padding-left: 40px;
   
   background: #ededed;
   list-style-type: none;
