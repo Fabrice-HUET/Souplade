@@ -53,6 +53,7 @@ input{
 button{
     padding-left: 3.5em;
     padding-right: 3.5em;
+    margin: auto;
     border-radius: 0;
     cursor: pointer;
 }
