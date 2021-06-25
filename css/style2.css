@@ -180,6 +180,7 @@ button{
     text-align: justify;
 }
 
+
 #menuToggle
 {
   display: block;
@@ -203,7 +204,7 @@ button{
   color: tomato;
 }
 
-
+/*css menu burger*/
 #menuToggle input
 {
   display: block;
@@ -284,7 +285,7 @@ button{
  * Make this absolute positioned
  * at the top left of the screen
  */
-#menu
+#menuBurger
 {
   position: absolute;
   width: 300px;
