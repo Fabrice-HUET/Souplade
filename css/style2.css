@@ -291,9 +291,8 @@ button{
   position: absolute;
   width: 1200px;
   height: 900px;
-  margin: -100px 0 0 -50px;
+  margin: 0;
   padding: 50px;
-  padding-top: 125px;
   
   background: #ededed;
   list-style-type: none;
