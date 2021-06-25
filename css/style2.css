@@ -314,5 +314,5 @@ button{
  */
 #menuToggle input:checked ~ ul
 {
-  transform: translate(-10%);
+  transform: translate(0);
 }
