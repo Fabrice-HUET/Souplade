@@ -296,6 +296,7 @@ button{
   
   background: #ededed;
   list-style-type: none;
+  text-align: center;
   
   transform-origin: left 0%;
   transform: translate(-200%, 0%);
