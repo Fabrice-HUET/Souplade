@@ -313,6 +313,6 @@ button{
  */
 #menuToggle input:checked ~ ul
 {
-  transform: translate(-65%);
+  transform: translate(-50%);
   
 }
