@@ -296,7 +296,6 @@ button{
   
   background: #ededed;
   list-style-type: none;
-  text-align: center;
   
   transform-origin: left 0%;
   transform: translate(-200%, 0%);
@@ -315,5 +314,5 @@ button{
  */
 #menuToggle input:checked ~ ul
 {
-  transform: translate(-25%);
+  transform: translate(-10%);
 }
