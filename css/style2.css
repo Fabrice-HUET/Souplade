@@ -289,10 +289,10 @@ button{
 #menuBurger
 {
   position: absolute;
-  width: 1200px;
+  width: 750px;
   height: 900px;
   margin: auto;
-  padding: 50px;
+  padding: auto;
   
   background: #ededed;
   list-style-type: none;
@@ -315,5 +315,5 @@ button{
  */
 #menuToggle input:checked ~ ul
 {
-  transform: translate(-50%);
+  transform: translate(-25%);
 }
