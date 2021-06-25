@@ -8,6 +8,8 @@ font-family: 'Vast Shadow', cursive;
 */
 body{
     font-family: 'Roboto', sans-serif;
+    color: #404040;
+    font-size: 1em;
 }
 
 .containerEP{
@@ -116,6 +118,29 @@ button{
 
 /*css recette salade de carottes*/
 .bandeau{
+    width: 100%;
+    height: 50px;
     background-color:orange
 }
 
+
+.h1sco{
+    font-family: 'Bebas Neue', cursive;
+    color: #F4661B;
+}
+
+.h2sco{
+    font-family: 'Dancing Script', cursive;
+}
+
+.sco{
+    line-height: 1.5em;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+}
+
+.scoinstructions{
+    text-align: center;
+    line-height: 2em;
+}
