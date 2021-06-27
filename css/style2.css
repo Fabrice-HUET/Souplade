@@ -181,7 +181,7 @@ button{
     text-align: justify;
 }
 
-
+/*Burger menu*/
 #menuToggle
 {
   display: block;
@@ -306,7 +306,7 @@ button{
 
 #menuBurger li
 {
-  padding: 10px;
+  padding-left: 250px;
   margin: 10px;
   font-size: 22px;
 }
