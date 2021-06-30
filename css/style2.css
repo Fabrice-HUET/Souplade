@@ -49,11 +49,14 @@ input{
 #menu{
     list-style-type: none;
     display: flex;
+    padding: 0px;
 }
 
 button{
-    padding-left: 3.5em;
-    padding-right: 3.5em;
+    /*padding-left: 3.5em;
+    padding-right: 3.5em;*/
+    /*remplacé par */
+    width: 140px;
     margin: auto;
     border-radius: 0;
     cursor: pointer;
