@@ -81,15 +81,21 @@ button{
     }
 }
 
+/*CSS Thibault : Articles + images*/
 #TitreDePage{
     margin-left:auto;
     margin-right:auto;
     text-align:center;
 }
 
+#txtArticle{
+    display:flex;
+    width:60%;
+    margin-left:15px;
+}
+
 #SoupeGaspachoCourgettes{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -100,7 +106,6 @@ button{
 
 #GaspachoMelonJambon{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -111,7 +116,6 @@ button{
 
 #GaspachoPoivrons{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -140,7 +144,6 @@ button{
 
 #SaladePois{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -151,7 +154,6 @@ button{
 
 #SaladeBien{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -162,7 +164,6 @@ button{
 
 #SaladeTerrain{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -173,7 +174,6 @@ button{
 
 #SaladeCarottes{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -226,7 +226,6 @@ button{
 
 #LesTomates{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -237,7 +236,6 @@ button{
 
 #LesHuiles{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
@@ -248,7 +246,6 @@ button{
 
 #LesRadis{
     display:flex;
-    justify-content:center;
     border-width:1px;
     border-style:solid;
     border-color:black;
