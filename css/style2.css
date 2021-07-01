@@ -256,6 +256,7 @@ button{
 @media screen and (max-width: 900px) {
     .headerEP{
         display: flex;
+        flex-direction: row;
     }
     #menu{
         display: none;
