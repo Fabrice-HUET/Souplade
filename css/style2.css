@@ -65,18 +65,7 @@ button{
     margin-left: auto;
     margin-right:auto;
 }
-/*media query grand écran*/
-@media screen and (min-width: 900px) {
-    #logo {
-        margin-left: 100%;
-    }
-    p{
-        border: 0;
-    }
-    #burger{
-        display: none;
-    }
-}
+
 
 /*CSS Thibault : Articles + images*/
 #TitreDePage{
@@ -257,23 +246,6 @@ button{
     background-color:grey;
 }
 
-/*media query petit écran*/
-@media screen and (max-width: 900px) {
-    .headerEP{
-        display: flex;
-        flex-direction: row;
-    }
-    #menu{
-        display: none;
-    }
-    #logo {
-        margin-left: 100%;
-    }
-    #site-search{
-        margin-left: 2em;
-        width: 100%;
-    }
-}
 
 /*css recette salade de carottes*/
 .bandeau{
@@ -612,3 +584,38 @@ button{
   transform: translate(-35%);
 }
 /*fin css burger menu*/
+
+/*media query grand écran*/
+@media screen and (min-width: 940px) {
+    .headerEP{
+        width: 940px;
+    }
+    
+    #logo {
+        margin-left: 100%;
+    }
+    p{
+        border: 0;
+    }
+    #burger{
+        display: none;
+    }
+}
+
+/*media query petit écran*/
+@media screen and (max-width: 939px) {
+    .headerEP{
+        display: flex;
+        flex-direction: row;
+    }
+    #menu{
+        display: none;
+    }
+    #logo {
+        margin-left: 100%;
+    }
+    #site-search{
+        margin-left: 2em;
+        width: 100%;
+    }
+}
