@@ -333,6 +333,141 @@ button{
     text-align: justify;
 }
 
+/*css recette gaspacho de poivrons*/
+.gpintro{
+    font-family: 'Montez', cursive;
+    text-align: center;
+    font-size:  1.5em;
+    font-weight: bold;
+    border: 3px dotted #5e742e;
+    border-top-style: none;
+    border-radius: 0px 0px 10px 10px;
+    padding: 20px;
+}
+
+.gpcont1{
+   background: #5e742e; 
+   color: white;
+   text-align: center;
+   line-height: 1.5em;
+   padding: 20px;
+}
+
+.gph1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 3em;
+    color: rgb(0, 150, 150)
+}
+
+
+.gpinstruction{
+    margin: auto;
+    padding:50px;
+    line-height:2em;
+    text-align: justify;
+}
+
+/*css recette gaspacho de courgettes au chèvre*/
+.gcch1{
+    font-family: 'Vast Shadow', cursive;
+    text-align: center;
+    font-size:  3em;
+    color: #516138;
+}
+
+.gcch2{
+    font-family: 'Montez', cursive;
+    font-size: 3em;
+}
+
+.gccintro {
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size:  1.5em;
+    font-weight: bold;
+}
+
+.gccinstru{
+
+}
+
+/*css recette gaspacho de melon au jambon cru*/
+.gmjh1{
+    font-family: 'Vast Shadow', cursive;
+    text-align: center;
+    font-size:  3em;
+    color: #181818;
+}
+
+.gmjh2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 3em;
+}
+
+.gmjintro {
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size:  1.5em;
+    font-weight: bold;
+    color: #ff7855;
+}
+
+.gmjli{
+    display: inline;
+    
+
+}
+
+.gmjinstru{
+
+}
+
+/*css recette salade qui fait du bien*/
+.sqfbh1{
+    font-family: 'Montez', cursive;
+    text-align: center;
+    font-size:  3em;
+    color: #456a59;
+}
+
+.sqfbhintro {
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size:  1.5em;
+    font-weight: bold;
+    color: #363636;
+}
+
+/*css recette salade tout terrain*/
+.stth1{
+    font-family: 'Montez', cursive;
+    text-align: center;
+    font-size:  3em;
+    color: #ff6347;
+}
+
+
+.sttintro {
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size:  1.5em;
+    font-weight: bold;
+    
+}
+
+.cont1a{
+    float: left;
+}
+
+.sttaside{
+    background-color: red;
+    width: 340 px;
+    height: 300 px;
+}
+
+
+
 /*Burger menu*/
 #menuToggle
 {
