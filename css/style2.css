@@ -68,19 +68,19 @@ button{
 
 
 /*CSS Thibault : Articles + images*/
-#TitreDePage{
+.titreDePage{
     margin-left:auto;
     margin-right:auto;
     text-align:center;
 }
 
-#txtArticle{
+.txtArticle{
     display:flex;
     width:60%;
     margin-left:15px;
 }
 
-#SoupeGaspachoCourgettes{
+.titreContenu{
     display:flex;
     border-width:1px;
     border-style:solid;
@@ -90,157 +90,14 @@ button{
     max-width:50%;
 }
 
-#GaspachoMelonJambon{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
 
-#GaspachoPoivrons{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#TitreCourgettesChevre{
+.articleContenu{
     margin-left:auto;
     margin-right:auto;
     text-align:center;
 }
 
-#TitreMelonJambon{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreGaspachoPoivrons{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#SaladePois{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#SaladeBien{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#SaladeTerrain{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#SaladeCarottes{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#TitreSaladePois{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreSaladeBien{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreSaladeTerrain{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreSaladeCarottes{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreLesTomates{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreLesHuiles{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#TitreLesRadis{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-}
-
-#LesTomates{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#LesHuiles{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#LesRadis{
-    display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
-    margin-left:auto;
-    margin-right:auto;
-    max-width:50%;
-}
-
-#ImgArticle{
+.imgArticle{
     width:150px;
     height:150px;
     background-color:grey;
