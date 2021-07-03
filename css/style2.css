@@ -251,6 +251,12 @@ button{
     max-width:50%;
 }
 
+#ImgArticle{
+    width:150px;
+    height:150px;
+    background-color:grey;
+}
+
 /*media query petit écran*/
 @media screen and (max-width: 900px) {
     .headerEP{
