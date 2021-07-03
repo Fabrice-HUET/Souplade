@@ -448,9 +448,6 @@ button{
         width: 940px;
     }
     
-    .main{
-        width: 940px;
-    
     #logo {
         margin-left: 100%;
     }
@@ -460,6 +457,8 @@ button{
     #burger{
         display: none;
     }
+    .main{
+    width: 940px;
 }
 
 /*media query petit écran*/
