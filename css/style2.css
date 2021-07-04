@@ -37,6 +37,10 @@ input{
     text-align: left;
 }
 
+#h1EP{
+    text-align: center;
+}
+
 .month{
     text-align: center;
     max-width: 50%;
