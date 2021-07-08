@@ -489,4 +489,9 @@ button{
     .pEP{
         border: 0;
     }
+    #imgLogo{
+        position: absolute;
+        top: -400px;
+        left: 350px;
+    }
 }
