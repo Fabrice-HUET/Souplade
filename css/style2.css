@@ -113,10 +113,11 @@ button{
 
 /*css logo*/
 #imgLogo{
-    transform: scale(10%);
+    width: 90%;
+    height: 90px;
     position: absolute;
-    top: -50%;
-    left: 45%;   
+    top: 15%;
+    left: 70%;   
 }
     
 /*css recette salade de carottes*/
