@@ -115,9 +115,9 @@ button{
 #imgLogo{
     width: 90px;
     height: 90px;
-    position: absolute;
-    top: 15%;
-    left: 70%;   
+    position: relative;
+    top: 20%;
+    left: 85%;  
 }
 #logo{
     width: 90px;
