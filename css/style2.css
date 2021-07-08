@@ -119,6 +119,10 @@ button{
     top: 15%;
     left: 70%;   
 }
+#logo{
+    width: 90px;
+    height: 90px;    
+}
     
 /*css recette salade de carottes*/
 .bandeau{
