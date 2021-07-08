@@ -496,7 +496,7 @@ button{
     }
     #imgLogo{
         position: absolute;
-        top: -60%;
-        left: 25%;
+        top: 0%;
+        left: 80%;
     }
 }
