@@ -486,4 +486,7 @@ button{
         margin-left: 2em;
         width: 100%;
     }
+    .pEP{
+        border: 0;
+    }
 }
