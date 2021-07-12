@@ -500,4 +500,8 @@ button{
         top: 0%;
         left: 80%;
     }
+    #logo{
+        width: 70px;
+        height: 70px;
+    }
 }
