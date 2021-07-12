@@ -505,3 +505,23 @@ button{
         height: 70px;
     }
 }
+
+/*css huiles.html*/
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Poly&display=swap');
+
+.pHuiles{
+    text-align: center;
+    max-width: 50%;
+    font-family: "Poly";
+    margin-left: 25%;
+}
+
+.hHuiles{
+    font-family: "Courgette";
+}
+
+.divHuileText{
+    border: thick double #32a1ce;
+    max-width: 50%;
+    text-align: center;
+}
