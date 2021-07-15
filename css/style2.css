@@ -78,6 +78,10 @@ button{
 
 
 /*CSS Thibault : Articles + images*/
+#contIndex{
+    height:150px;
+}
+
 .titreDePage{
     margin-left:auto;
     margin-right:auto;
