@@ -336,6 +336,32 @@ button{
     border-left:3px dotted #404040;
 }
 
+/*css salade pois et céréales*/
+.spch1{
+font-family: 'Montez', cursive;
+    text-align: center;
+    font-size:  3em;
+    color: #cab816;
+}
+
+.spcend{
+    background-color:#cab816;
+    font-family: 'Montez', cursive;
+    color:#ffffff;
+    text-align: center;
+    font-size:  1.5em;
+    border-radius: 15px 15px 0px 0px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.spcli{
+    list-style: none;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+
 
 /*Burger menu*/
 #menuToggle
