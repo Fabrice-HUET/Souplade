@@ -129,7 +129,7 @@ button{
 .bandeau{
     width: 100%;
     height: 50px;
-    background-color:orange
+    background-color:orange;
 }
 
 
@@ -308,6 +308,8 @@ button{
 
 .sttintro {
     font-family: 'Dancing Script', cursive;
+    justify-content: justify;
+    color: #dcd39d;
     text-align: left;
     font-size:  1.5em;
     font-weight: bold;
@@ -318,12 +320,21 @@ button{
     float: left;
 }
 
-.sttaside{
-    background-color: red;
-    width: 340 px;
-    height: 300 px;
+
+.gomasio{
+    font-family: 'Bebas Neue', cursive;
+    color: #dcd39d;
+    font-size:  1.5em;
 }
 
+.sttli {
+    list-style: none;
+    line-height: 1.5em;
+}
+
+.sttbo{
+    border-left:3px dotted #404040;
+}
 
 
 /*Burger menu*/
