@@ -8,9 +8,9 @@ font-family: 'Vast Shadow', cursive;
 */
 body{
     font-family: 'Roboto', sans-serif;
-    color: #404040;
+    color: #6C6C6C;
     font-size: 1em;
-}
+    }
 
 /*css étienne*/
 .containerEP{
@@ -18,6 +18,15 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    background-color: #fff;
+}
+
+.headerEP{
+    background-color: #f7f7f7;
+}
+
+.main{
+    background-color: #f7f7f7;
 }
 
 .inputEP{
@@ -64,10 +73,30 @@ input{
 
 button{
     width: 140px;
-    margin: auto;
+    margin: 6px;
     border-radius: 0;
     cursor: pointer;
+    font-weight: bold;
+    color: #1f1F1F;
+    background: rgba(179, 179, 179, 0.2);
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border: none;
+    box-shadow: 10px 10px rgba(0,0,0,.15);
+    transition: all .4s ease;
 }
+
+button:hover{  
+    background: rgba(179, 179, 179, 0.9);
+    color:#EEE;
+    border-radius: 50% 50% 50% 50% / 5% 5% 5% 5% ;
+    box-shadow: 1px 1px rgba(0,0,0,.25);
+}
+
+	button:active{
+    background:linear-gradient(90deg, rgba(76, 175, 80, 1) 0%, rgba(49, 220, 255, 1) 100%);
+	}
 
 #site-search{
     display: block;
