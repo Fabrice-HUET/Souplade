@@ -538,6 +538,9 @@ font-family: 'Montez', cursive;
     .main{
     width: 940px;
     }
+    .bandeau2{
+        display: none;
+    }
 }
 
 /*media query petit écran*/
@@ -570,9 +573,7 @@ font-family: 'Montez', cursive;
         flex-direction: column;
         align-items: center;
     }
-    .bandeau2{
-        display: none;
-    }
+    
     
 }
 
