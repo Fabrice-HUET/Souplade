@@ -564,6 +564,10 @@ font-family: 'Montez', cursive;
         flex-direction: column;
         align-items: center;
     }
+    .bandeau2{
+        display: none;
+    }
+    
 }
 
 /*css huiles.html*/
