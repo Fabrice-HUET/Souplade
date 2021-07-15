@@ -291,10 +291,25 @@ button{
 
 .sqfbhintro {
     font-family: 'Dancing Script', cursive;
-    text-align: left;
+    text-align: center;
     font-size:  1.5em;
     font-weight: bold;
     color: #363636;
+}
+
+.sqfdbnum{
+    display: flex;
+    flex-direction: row;
+}
+
+.sqfdbli{
+    width: 45%;
+    list-style-type: none;
+    line-height: 1.5em;
+}
+
+.sqfdbinstru{
+    list-style: decimal;
 }
 
 /*css recette salade tout terrain*/
