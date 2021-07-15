@@ -132,6 +132,12 @@ button{
     background-color:orange;
 }
 
+.bandeau2{
+    width: 100%;
+    height: 50px;
+    background-color:#fff;
+}
+
 
 .h1sco{
     font-family: 'Bebas Neue', cursive;
