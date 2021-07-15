@@ -136,10 +136,12 @@ button{
 .h1sco{
     font-family: 'Bebas Neue', cursive;
     color: #F4661B;
+    text-align: center;
 }
 
 .h2sco{
     font-family: 'Dancing Script', cursive;
+    text-align: center;
 }
 
 .sco{
