@@ -562,7 +562,7 @@ font-family: 'Montez', cursive;
     .headerEP{
         width: 940px;
     }
-    p{
+    .pEP{
         border: 0;
     }
     #burger{
