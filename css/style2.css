@@ -630,3 +630,68 @@ font-family: 'Montez', cursive;
     max-width: 50%;
     text-align: center;
 }
+
+/* css herbes.html */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+#herbes{
+    width: auto;
+    text-align: center;
+    text-justify: auto;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "ciboulette coriandre estragon"
+      "cerfeuil basilic persil"
+      "menthe menthe menthe"
+    ;
+
+}
+
+#ciboulette{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: ciboulette;
+}
+
+#coriandre{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: coriandre;
+}
+
+#estragon{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: estragon;
+}
+
+#cerfeuil{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: cerfeuil;
+}
+
+#menthe{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: menthe;
+}
+
+#basilic{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: basilic;
+}
+
+#persil{
+    border: 2px solid rgb(34, 206, 34) ;
+    grid-area: persil;
+}
+
+#h1Herbes{
+    font-size: 3em;
+    color: green;
+    font-family: "Bebas";
+    text-align: center;
+}
+
+.h2Herbes{
+    font-family: "Indie Flower", cursive;
+}
