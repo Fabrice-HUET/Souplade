@@ -574,6 +574,18 @@ font-family: 'Montez', cursive;
     .bandeau2{
         display: none;
     }
+    #herbes{
+        width: auto;
+        text-align: center;
+        display: grid;
+        grid-template-columns: 300px 300px 300px;
+        grid-template-rows: auto;
+        grid-template-areas: 
+            "ciboulette coriandre estragon"
+            "cerfeuil basilic persil"
+            "menthe menthe menthe"
+       ;
+    }
 }
 
 /*media query petit écran*/
@@ -606,8 +618,10 @@ font-family: 'Montez', cursive;
         flex-direction: column;
         align-items: center;
     }
-    
-    
+    #herbes{
+        display: block;
+        text-align: center
+    }
 }
 
 /*css huiles.html*/
@@ -634,21 +648,6 @@ font-family: 'Montez', cursive;
 /* css herbes.html */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-
-#herbes{
-    width: auto;
-    text-align: center;
-    text-justify: auto;
-    display: grid;
-    grid-template-columns: 300px 300px 300px;
-    grid-template-rows: auto;
-    grid-template-areas: 
-      "ciboulette coriandre estragon"
-      "cerfeuil basilic persil"
-      "menthe menthe menthe"
-    ;
-
-}
 
 #ciboulette{
     border: 2px solid rgb(34, 206, 34) ;
