@@ -29,6 +29,12 @@ body{
     background-color: #f7f7f7;
 }
 
+.divHuile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .inputEP{
     display: flex;
     flex-direction: column;
