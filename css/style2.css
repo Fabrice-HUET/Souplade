@@ -138,8 +138,7 @@ button:hover{
 }
 
 .accueilContenu {
-	display: flex; 
-	border-width: 1px;
+	display: flex; border-width: 1px;
 	border-style: solid;
 	border-color: black;
 	margin-left: auto;
@@ -656,7 +655,7 @@ font-family: 'Montez', cursive;
 
 .divHuileText{
     border: thick double #dfdc36;
-    max-width: 50%;
+    max-width: 80%;
     text-align: center;
 }
 
@@ -708,4 +707,11 @@ font-family: 'Montez', cursive;
 
 .h2Herbes{
     font-family: "Indie Flower", cursive;
+}
+
+.divHerbes{
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid rgb(34, 206, 34) ;
+    margin: 20px;
 }
