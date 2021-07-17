@@ -714,5 +714,8 @@ font-family: 'Montez', cursive;
     padding-left: 20px;
     padding-right: 20px;
     border: 1px solid rgb(34, 206, 34) ;
-    margin: 20px;
+}
+
+#herbes{
+    margin: 20px; 
 }
