@@ -21,6 +21,10 @@ body{
     background-color: #fff;
 }
 
+.calendrier{
+    margin: 15px;
+}
+
 .headerEP{
     background-color: #f7f7f7;
 }
