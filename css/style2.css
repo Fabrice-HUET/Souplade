@@ -117,9 +117,6 @@ button:hover{
 
 
 /*CSS Thibault : Articles + images*/
-#contIndex{
-    height:150px;
-}
 
 .titreDePage{
     margin-left:auto;
@@ -150,6 +147,7 @@ button:hover{
 	margin-right: auto;
 	justify-content: center;
 	margin-bottom:15px;
+	height:150px;
 }
 
 .titreContenu{
