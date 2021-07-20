@@ -157,6 +157,8 @@ button:hover{
 	margin-bottom:15px;
 	height:150px;
 	margin:20px;
+	background-color: white;
+	box-shadow: 10px 10px rgba(0,0,0,.15);
 }
 
 .accueilContenu:hover{  
