@@ -391,6 +391,8 @@ button:hover{
 .sqfdbinstru{
     list-style: decimal;
     line-height: 1.5em;
+	padding: 20px;
+	text-align: justify;
 }
 
 /*css recette salade tout terrain*/
