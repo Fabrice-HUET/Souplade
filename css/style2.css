@@ -95,7 +95,6 @@ button{
     border: none;
     box-shadow: 10px 10px rgba(0,0,0,.15);
     transition: all .2s ease;
-	transform translate y
 }
 
 button:hover{  
@@ -119,6 +118,15 @@ button:hover{
 
 
 /*CSS Thibault : Articles + images*/
+
+a{
+    text-decoration:none;
+    color:green;
+}
+
+a:hover{
+    color: tomato;
+}
 
 .titreDePage{
     margin-left:auto;
