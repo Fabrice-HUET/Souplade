@@ -27,10 +27,12 @@ body{
 
 .headerEP{
     background-color: #f7f7f7;
+    padding: 20px;
 }
 
 .main{
     background-color: #f7f7f7;
+    padding: 20px;
 }
 
 .divHuile{
@@ -644,6 +646,9 @@ font-family: 'Montez', cursive;
 
 /*media query petit écran*/
 @media screen and (max-width: 939px) {
+    .main{
+        width: 100%;
+     }
     .headerEP{
         display: flex;
         flex-direction: row;
