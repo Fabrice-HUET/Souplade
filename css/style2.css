@@ -118,6 +118,10 @@ button:hover{
 
 /*CSS Thibault : Articles + images*/
 
+a{
+    text-decoration:none;
+}
+
 .titreDePage{
     margin-left:auto;
     margin-right:auto;
@@ -143,7 +147,6 @@ button:hover{
 .txtAccueil{
     margin-top: auto;
     margin-bottom: auto;
-    text-decoration: none;
     font-weight:bold;
     font-family: 'Roboto', sans-serif;
 }
