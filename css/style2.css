@@ -692,7 +692,6 @@ font-family: 'Montez', cursive;
 
 /* css herbes.html */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 #ciboulette{
     border: 2px solid rgb(34, 206, 34) ;
@@ -737,7 +736,6 @@ font-family: 'Montez', cursive;
 }
 
 .h2Herbes{
-    font-family: "Indie Flower", cursive;
     text-align: center;
 }
 
