@@ -123,6 +123,10 @@ a{
     color:green;
 }
 
+a:hover{
+    color: tomato;
+}
+
 .titreDePage{
     margin-left:auto;
     margin-right:auto;
