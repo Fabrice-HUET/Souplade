@@ -637,6 +637,7 @@ font-family: 'Montez', cursive;
     .headerEP{
         display: flex;
         flex-direction: row;
+	background-color: white;
     }
     #menu{
         display: none;
