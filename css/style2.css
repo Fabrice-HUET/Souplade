@@ -153,6 +153,10 @@ a:hover{
 	
 }
 
+#btnSalades{
+    background-image: url("../Images/salade.jpg");
+}
+
 #btnSoupes{
     background-image: url("../Images/soupe.jpg");
 }
