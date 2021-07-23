@@ -218,7 +218,7 @@ a:hover{
 .bandeau{
     width: 100%;
     height: 50px;
-    background-color:orange;
+    background-color:#f4661b;
 }
 
 .bandeau2{
@@ -754,7 +754,7 @@ h4{
 
 #h1Herbes{
     font-size: 3em;
-    color: green;
+    color:  #5e742e;
     font-family: "Bebas";
     text-align: center;
 }
