@@ -127,7 +127,7 @@ a{
 }
 
 a:hover{
-    color: tomato;
+    color:#b74045;
 }
 
 .titreDePage{
@@ -500,7 +500,7 @@ font-family: 'Montez', cursive;
 
 #menuToggle a:hover
 {
-  color: tomato;
+  color: #b74045;
 }
 
 /*css menu burger*/
