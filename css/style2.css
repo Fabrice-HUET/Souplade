@@ -707,6 +707,10 @@ font-family: 'Montez', cursive;
     text-align: center;
 }
 
+h4{
+ text-align: center;
+}	
+
 /* css herbes.html */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
