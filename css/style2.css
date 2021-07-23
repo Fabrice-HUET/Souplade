@@ -154,12 +154,17 @@ a:hover{
 	
 }
 
+#btnSoupes{
+    background-image: url(Images/soupe.jpg);
+}
+
 .txtAccueil{
     margin-top: auto;
     margin-bottom: auto;
     text-decoration: none;
     font-weight:bold;
     font-family: 'Roboto', sans-serif;
+    font-size: 3em;
 }
 
 .accueilContenu{
