@@ -144,9 +144,6 @@ a:hover{
 
 .articleContenu{
     display:flex;
-    border-width:1px;
-    border-style:solid;
-    border-color:black;
     margin-left:auto;
     margin-right:auto;
     box-shadow: 10px 10px rgba(0,0,0,.15);
