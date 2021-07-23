@@ -139,6 +139,7 @@ a:hover{
 .txtArticle{
     display:flex;
     padding:20px;
+	text-align: justify;
 }
 
 .articleContenu{
