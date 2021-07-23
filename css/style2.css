@@ -153,12 +153,24 @@ a:hover{
 	
 }
 
+#btnContribution{
+    background-image: url("..:/Images/contribution.jpg");
+}
+
 #btnSalades{
     background-image: url("../Images/salade.jpg");
 }
 
 #btnSoupes{
     background-image: url("../Images/soupe.jpg");
+}
+
+#btnCalendrier{
+    background-image: url("../Images/calendrier.jpeg");
+}
+
+#btnZoomSur{
+    background-image: url("../Images/Zoom.jpg");
 }
 
 .txtAccueil{
