@@ -164,9 +164,6 @@ a:hover{
 
 .accueilContenu{
 	display: flex; 
-	border-width: 1px;
-	border-style: solid;
-	border-color: black;
 	margin-left: auto;
 	margin-right: auto;
 	justify-content: center;
