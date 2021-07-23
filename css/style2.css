@@ -690,7 +690,7 @@ font-family: 'Montez', cursive;
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Poly&display=swap');
 
 .pHuiles{
-    text-align: center;
+    text-align: justify;
     max-width: 50%;
     font-family: "Poly";
     margin-left: 25%;
