@@ -149,13 +149,12 @@ a:hover{
     margin-right:auto;
     box-shadow: 10px 10px rgba(0,0,0,.15);
     background-color:white;
-
-	text-align: justify;
+    text-align: justify;
 	
 }
 
 #btnSoupes{
-    background-image: url(../Images/soupe.JPG);
+    background-image: url(https://github.com/Fabrice-HUET/team99/blob/gh-pages/Images/soupe.jpg);
 }
 
 .txtAccueil{
@@ -191,7 +190,7 @@ a:hover{
 }
 
 .titreContenu{
-	margin-top: 40px;
+    margin-top: 40px;
     margin-left:auto;
     margin-right:auto;
     text-align:center;
