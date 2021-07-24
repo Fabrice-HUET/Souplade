@@ -219,7 +219,7 @@ a:hover{
 
 .accueilContenu:hover{  
     background: rgba(179, 179, 179, 0.9);
-    color:#EEE;
+    color:#b74045;
     border-radius: 50% 50% 50% 50% / 5% 5% 5% 5% ;
     box-shadow: 1px 1px rgba(0,0,0,.25);
 }
