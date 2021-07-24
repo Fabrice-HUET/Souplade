@@ -344,16 +344,19 @@ a:hover{
     font-size:  1.5em;
     font-weight: bold;
     color: #ff7855;
+	text-align: center;
 }
 
 .gmjli{
     display: inline;
+	list-style: none;
     
 
 }
 
 .gmjinstru{
-
+line-height:2em;
+    text-align: justify;
 }
 
 /*css recette salade qui fait du bien*/
