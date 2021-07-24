@@ -1,11 +1,4 @@
-/*Ajout de police
-FH s'en occupe
-font-family: 'Bebas Neue', cursive;
-font-family: 'Dancing Script', cursive;
-font-family: 'Montez', cursive;
-font-family: 'Roboto', sans-serif;
-font-family: 'Vast Shadow', cursive;
-*/
+
 body{
     font-family: 'Roboto', sans-serif;
     color: #6C6C6C;
@@ -268,40 +261,6 @@ a:hover{
     line-height: 2em;
 }
 
-/*css recette gaspacho de poivrons*/
-.gpintro{
-    font-family: 'Montez', cursive;
-    text-align: center;
-    font-size:  1.5em;
-    font-weight: bold;
-    border: 3px dotted #5e742e;
-    border-top-style: none;
-    border-radius: 0px 0px 10px 10px;
-    padding: 20px;
-}
-
-.gpcont1{
-   background: #5e742e; 
-   color: white;
-   text-align: center;
-   line-height: 1.5em;
-   padding: 20px;
-}
-
-.gph1{
-    text-align: center;
-    font-family: cursive;
-    font-size: 3em;
-    color: rgb(0, 150, 150)
-}
-
-
-.gpinstruction{
-    margin: auto;
-    padding:50px;
-    line-height:2em;
-    text-align: justify;
-}
 
 /*css recette gaspacho de poivrons*/
 .gpintro{
@@ -355,12 +314,14 @@ a:hover{
 .gccintro {
     font-family: 'Dancing Script', cursive;
     text-align: left;
-    font-size:  1.5em;
+    font-size:  2em;
     font-weight: bold;
+	text-align: center;
 }
 
 .gccinstru{
-
+ line-height:2em;
+    text-align: justify;
 }
 
 /*css recette gaspacho de melon au jambon cru*/
